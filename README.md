@@ -10,7 +10,9 @@ My work philosophy revolves around clear communication, meticulous attention to 
 
 </p>
 
-- 🔭 I’m currently working on project [Diviflash](https://diviflash.com/)
+- 🔭 I'm currently working on a project [Mail Manager WPForms](#)
+- 
+- 🔭 I worked on the project [Diviflash](https://diviflash.com/)
 
 - 🌱 I’m currently learning **WordPress & React trends and techniques.**
 
